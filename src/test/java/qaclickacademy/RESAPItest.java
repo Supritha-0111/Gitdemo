@@ -6,6 +6,8 @@ public class RESAPItest {
 	@Test
 	public void apiTest() {
 		System.out.println("RESTAPI");
+		System.out.println("RESTAPI1");
+
 	}
    
 	@Test
