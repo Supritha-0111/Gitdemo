@@ -12,6 +12,9 @@ public class SeleniumTest {
 	@Test
 	public void apiTest2() {
 		System.out.println("SELENIUM");
+		System.out.println("SELENIUM1");
+		System.out.println("SELENIUM2");
+
 
 	}
 }
