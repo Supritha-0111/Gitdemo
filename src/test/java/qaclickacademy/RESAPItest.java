@@ -11,6 +11,9 @@ public class RESAPItest {
 	@Test
 	public void apiTest2() {
 		System.out.println("RESTAPI");
+		System.out.println("RESTAPI....1");
+		System.out.println("RESTAPI....2");
+
 
 	}
 
